@@ -51,7 +51,7 @@ Build a data-science-focused portfolio for internships and junior roles
 
 📫 How to reach me
 
-📧 Email: orisha.shakya07@gmail.com
+📧 Email: orishashakya21@gmail.com
 
 💼 LinkedIn:  https://www.linkedin.com/in/orisha-shakya-ba31662b0/
 
