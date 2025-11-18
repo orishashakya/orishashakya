@@ -14,8 +14,8 @@ I'm Orisha an undergraduate student from PadmaKanya Multiple Campus — an aspir
 🛠️ Tools & Technologies
 
 🎯 Current Goals
-Build end-to-end machine learning and deep learning projects
-Strengthen understanding of ML pipelines and model evaluation
+Build end-to-end machine learning and deep learning projects |
+Strengthen understanding of ML pipelines and model evaluation |
 Build a data-science-focused portfolio for internships and junior roles
 
 
